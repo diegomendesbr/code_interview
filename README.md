@@ -181,7 +181,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Diego Mendes - [@diegomendes_br](https://twitter.com/diegomendes_br) - dhmendes@gmail.com
 
-Project Link: [https://github.com/diegomendesbr/repo_name](https://github.com/diegomendesbr/code_interview)
+Project Link: [https://github.com/diegomendesbr/code_interview](https://github.com/diegomendesbr/code_interview)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
