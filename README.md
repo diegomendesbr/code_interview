@@ -77,7 +77,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-
 [![Product Name Screen Shot][product-screenshot]](https://google.com)
 
 A groovy program responsible for processing information to start loans and generate amortization schedules for each loan.
@@ -86,14 +85,12 @@ A groovy program responsible for processing information to start loans and gener
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
 ### Built With
 
 * [Groovy](https://groovy-lang.org/)
 * [Shell Script](https://www.shellscript.sh/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
@@ -146,7 +143,7 @@ _For more examples, please refer to the [Documentation](https://google.com)_
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/diegomendes_br/code_interview/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -182,9 +179,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Diego Mendes - [@diegomendes_br](https://twitter.com/diegomendes_br) - email@email_client.com
+Diego Mendes - [@diegomendes_br](https://twitter.com/diegomendes_br) - dhmendes@gmail.com
 
-Project Link: [https://github.com/diegomendesbr/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/diegomendesbr/repo_name](https://github.com/diegomendesbr/code_interview)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
