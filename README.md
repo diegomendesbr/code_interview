@@ -31,12 +31,8 @@
 <h3 align="center">Loan Processor</h3>
 
   <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/diegomendesbr/code_interview"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/diegomendesbr/code_interview">View Demo</a>
+    A groovy program responsible for processing information to start loans and generate amortization schedules for each loan.
+    
     ·
     <a href="https://github.com/diegomendesbr/code_interview/issues">Report Bug</a>
     ·

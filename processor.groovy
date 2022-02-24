@@ -120,3 +120,4 @@ def printAmortizationSchedule(Loan loan){
 loadFile(args)
 startLoans()
 printAmortizationSchedules()
+
