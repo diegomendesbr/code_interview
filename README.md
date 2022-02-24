@@ -84,7 +84,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]
+[Product Name Screen Shot][product-screenshot]
 
 A groovy program responsible for processing information to start loans and generate amortization schedules for each loan.
 
@@ -101,11 +101,9 @@ A groovy program responsible for processing information to start loans and gener
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
