@@ -1,0 +1,12 @@
+#!/bin/bash
+
+filename=$1
+
+cat $filename > inputx.txt
+
+groovy processor inputx.txt
+
+rm inputx.txt
+
+
+

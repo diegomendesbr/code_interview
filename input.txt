@@ -1,0 +1,6 @@
+Add Tom 101-1313-101 $300 35.5% 12
+Add Quincy 10VASL101 $500 1% 12
+Add Peter 13-2131-102 $300 10.0% 11
+Add Diego 13-DM-102 $300 4.3% 9
+Add Alvarez K-DM-19902 $1300 1.3% 3
+Add John 102-2131-102 $300 10.0% 8
