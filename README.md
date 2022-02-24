@@ -19,13 +19,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 
 <!-- PROJECT LOGO -->
@@ -84,7 +77,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[Product Name Screen Shot][product-screenshot]
+
+[![Product Name Screen Shot][product-screenshot]](https://google.com)
 
 A groovy program responsible for processing information to start loans and generate amortization schedules for each loan.
 
@@ -101,6 +95,7 @@ A groovy program responsible for processing information to start loans and gener
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -108,28 +103,27 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+You need to install Groovy Version: 3.0.7 and JVM: 11.0.10 Vendor: Azul Systems.
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Download the script loanprocessor
+2. Give to it permission to execute
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   chmod +x loan_processor
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+3. Download the script processor.groovy
+   
+4. Download the file input.txt
 
+5. Execute one of both commands
+   ```sh
+   ./loan_processor input.txt
+   ```
+   or
+      ```sh
+   ./loan_processor < input.txt
+   ```
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -139,10 +133,9 @@ This is an example of how to list things you need to use the software and how to
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://google.com)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- ROADMAP -->
@@ -189,9 +182,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Diego Mendes - [@diegomendes_br](https://twitter.com/diegomendes_br) - email@email_client.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/diegomendesbr/repo_name](https://github.com/github_username/repo_name)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
